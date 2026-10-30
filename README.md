@@ -12,3 +12,10 @@ A structured repository tracking my core programming fundamentals, daily problem
 * `DSA/`: Algorithmic problems categorized by pattern (e.g., Arrays, Strings, Sorting).
 * `Scripts/`: Small automation scripts and isolated logic tests.
 
+## 🛠️ Tech Stack & Tools
+- **Language:** Python 3
+- **Environment:** Linux terminal workflow 
+- **Focus Areas:** Clean logic, strict algorithmic constraints, and readable code.
+
+## 📈 Learning Log
+* **October 2026:** Initiated CS50P to solidify base Python concepts before advancing to complex backend architectures. Transitioned daily DSA practice into this centralized repository.
